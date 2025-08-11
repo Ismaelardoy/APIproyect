@@ -17,8 +17,8 @@ This project is a RESTful API built with Django and Django REST Framework to man
 
 ## Technologies Used
 
-- Python 3.10+
-- Django 4.x
+- Python 3.13.1
+- Django 5.2.4
 - Django REST Framework
 - SQLite (default, can be changed)
 - Token or Session Authentication
